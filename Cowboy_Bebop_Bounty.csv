@@ -1,0 +1,30 @@
+Session,Target,Crime(s),Location,Reward,Reward_Millions,Result,Reward Collected?
+1,Unkown,Unknown,Unknown,"1,000,000",1,Successfully Captured,Yes
+1,Asimov Solensan,Murder,Tijuana,"2,500,000",2.5,Murdered ,No
+2,Abdul Hakim,Robbery,Mars,"8,000,000",8,Police Caught the Bounty First,No
+3,Faye Valentine,Scamming,Mars' Orbit,"6,000,000",6,Escaped and Soon Joined Bebop,No
+NA,NA,Robbery,NA,NA,nill,NA,NA
+4,Morgan,Unknown,Ganymede,"8,000,000",8,Murdered ,No
+4,Twinkle Maria Murdock,Bio Terrorism,Ganymede,"25,000,000",25,Bounty Cancelled,No
+5,Mao Yenrai,Murder,Mars,"28,000,000",28,Murdered ,No
+6,Giraffe,Murder,Mars,"3,000,000",3,Murdered ,No
+7,Decker,Transportation & Distribution of High Grade Explosives,Woody's,"12,000,000",12,Accidental Death,No
+8,"Huey, Louie, and Dewey",Hijacking,Venus,"1,500,000",1.5,Successfully Captured,Yes
+8,Picarro Calvino,Bank Robbery,Venus,"500,000",0.5,Successfully Captured,Yes
+NA,NA,Unintentional Murder,NA,NA,nill,NA,NA
+9,CPU-D135 Artificial Satellite,Hacking ,Earth's Orbit,"8,000,000",8,Successfully Captured,No
+9,Unkown,Unknown,Pyortle,Unknown,Unknown,Police Caught the Bounty First,No
+9,Ajiz,Unknown,Mars,"1,500,000",1.5,Escaped,No
+10,Baker Pachonero,Bank Robbery,Ganymede,"800,000",0.8,Successfully Captured,Yes
+10,Rhint Celonias,Murder,Ganymede,"1,800,000",1.8,Successfully Captured,Yes
+12,Gren,Escaped Jail,Callisto,Unknown,Unknown,Murdered ,No
+14,Chessmaster Hex,Hacking ,Bohemian Junkheap,"12,000,000",12,Dies From Natural Causes,No
+NA,NA,Robbery,NA,NA,nill,NA,NA
+15,Whitney Haggis Matsumoto,Fraudulence,Unknown,"59,400",0.0594,Successfully Captured,Yes
+17,Domino Walker,Selling Illegal Mushroom,Io,"1,200,000",1.2,Escaped,No
+19,"George, Herman, Ruth",Capturing Ships,Earth's Orbit,Unknown,Unknown,Accidental Death,No
+22,Teddy Bomber,Terrorism,Mars,"3,000,000",3,Successfully Captured,Yes
+22.5,Rengie and His Men,Robbery,Mars,"1,250,000",1.25,Successfully Captured,Yes
+22.5,Lee Sampson,Hacking ,Mars,"5,000,000",5,Murdered ,No
+22.5,Vincent Volaju,Bio Terrorism,Mars,"300,000,000",300,Murdered ,No
+23,Dr.Londes,Murder,Mars,"38,000,000",38,Successfully Captured,Yes
