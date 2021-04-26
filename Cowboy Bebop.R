@@ -1,11 +1,11 @@
 #This file will be about Cowboy Bebop. More specifically, about their bounties.
-Cowboy_Bebop_File <- read.csv("C:/Users/iftia/Documents/Data Work/Cowboy Bebop/Cowboy_Bebop_Bounty.csv")
+Cowboy_Bebop_File <- read.csv("...:/.../.../Documents/Data Work/Cowboy Bebop/Cowboy_Bebop_Bounty.csv")
 Cowboy_Bebop_File
 
 #Loading Cowboy Bebop Logo File onto R
 library(grid)
 library(jpeg)
-Cowboy_Bebop_Poster <- jpeg::readJPEG("C:/Users/iftia/Documents/Data Work/Cowboy Bebop/Cowboy Bebop Logo.jpg")
+Cowboy_Bebop_Poster <- jpeg::readJPEG("...:/.../.../Documents/Data Work/Cowboy Bebop/Cowboy Bebop Logo.jpg")
 library(ggplot2)
 
 
